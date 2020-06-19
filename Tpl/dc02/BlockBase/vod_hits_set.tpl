@@ -1,0 +1,1 @@
+{$vod_hits_insert}
